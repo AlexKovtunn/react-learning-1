@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-learning-1/static/css/main.518e6624.css",
+    "main.js": "/react-learning-1/static/js/main.dfb5b1ab.js",
+    "static/media/empty-cart.png": "/react-learning-1/static/media/empty-cart.db905d1f4b063162f25b.png",
+    "static/media/pizza-logo.svg": "/react-learning-1/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
+    "index.html": "/react-learning-1/index.html",
+    "main.518e6624.css.map": "/react-learning-1/static/css/main.518e6624.css.map",
+    "main.dfb5b1ab.js.map": "/react-learning-1/static/js/main.dfb5b1ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.518e6624.css",
+    "static/js/main.dfb5b1ab.js"
+  ]
+}
